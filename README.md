@@ -40,3 +40,13 @@ su funcionalidad.
 
 🎯 Mi objetivo es seguir creciendo como desarrollador, mejorar continuamente
 mis habilidades y convertir lo que aprendo en proyectos útiles e interesantes.
+
+</td>
+    <td width="40%" align="center">
+
+<img width="250" height="250" alt="wallhaven-vmrjdm_250x250" src="https://github.com/user-attachments/assets/2554cfed-3eeb-4176-84d3-ecd7972b9043" />
+
+
+    </td>
+  </tr>
+</table>
