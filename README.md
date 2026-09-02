@@ -26,6 +26,8 @@
 
 </p>
 
+<p align="left">
+  
 Soy estudiante de 2.º año de la **Licenciatura en Sistemas de la Información**
 en la **UNNE – FaCENA**, interesado en el desarrollo de software y en seguir
 ampliando mis conocimientos en programación.
@@ -40,6 +42,8 @@ su funcionalidad.
 
 🎯 Mi objetivo es seguir creciendo como desarrollador, mejorar continuamente
 mis habilidades y convertir lo que aprendo en proyectos útiles e interesantes.
+
+</p>
 
 <img width="250" height="250" alt="wallhaven-vmrjdm_250x250" src="https://github.com/user-attachments/assets/7288e04e-bfe9-41c3-b7c1-76be0f483cc4" />
 
