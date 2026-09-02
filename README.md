@@ -23,4 +23,20 @@
   <a href="https://steamcommunity.com/profiles/76561199511825812/">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
   </a>
+
 </p>
+
+Soy estudiante de 2.º año de la **Licenciatura en Sistemas de la Información**
+en la **UNNE – FaCENA**, interesado en el desarrollo de software y en seguir
+ampliando mis conocimientos en programación.
+
+Actualmente estoy aprendiendo y trabajando con **Java y C#**, mientras
+fortalezco mis conocimientos de **Programación Orientada a Objetos,
+Estructuras de Datos y Algoritmos**.
+
+También me interesa el desarrollo de **extensiones para navegadores**,
+explorando nuevas formas de crear herramientas que amplíen y personalicen
+su funcionalidad.
+
+🎯 Mi objetivo es seguir creciendo como desarrollador, mejorar continuamente
+mis habilidades y convertir lo que aprendo en proyectos útiles e interesantes.
