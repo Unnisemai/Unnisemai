@@ -1,4 +1,6 @@
+<p align="center">
 <img width="1280" height="400" alt="wallhaven-vmrjdm_1280x400" src="https://github.com/user-attachments/assets/61116215-1fed-43c0-909a-91d2787744dc" />
+</p>
 <!--
 **Unnisemai/Unnisemai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
