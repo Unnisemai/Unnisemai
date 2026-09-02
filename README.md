@@ -12,19 +12,13 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
   <a href="https://instagram.com/TU_USUARIO">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
   <a href="https://discord.com/users/TU_ID">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://steamcommunity.com/profiles/76561199511825812/">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
