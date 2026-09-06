@@ -1,22 +1,16 @@
-<p align="center">
-  <img 
-    width="1280" 
-    height="400" 
-    alt="wallhaven-vmrjdm_1280x400" 
-    src="https://github.com/user-attachments/assets/61116215-1fed-43c0-909a-91d2787744dc" 
-  />
-</p>
+<img width="3200" height="1516" alt="41aa5559-0aeb-429b-9b1a-400bc89384b0" src="https://github.com/user-attachments/assets/f44d6d3b-f27a-4074-8ae6-ebe781f83410" />
+
 
 <p align="center">
   <a href="https://github.com/Unnisemai">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="https://instagram.com/TU_USUARIO">
+  <a href="https://instagram.com/ueueuelvlann/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
-  <a href="https://discord.com/users/TU_ID">
+  <a href="https://discord.com/users/1153072886261747843">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 
@@ -25,25 +19,4 @@
   </a>
 
 </p>
-
-<p align="left">
-  
-Soy estudiante de 2.º año de la **Licenciatura en Sistemas de la Información**
-en la **UNNE – FaCENA**, interesado en el desarrollo de software y en seguir
-ampliando mis conocimientos en programación.
-
-Actualmente estoy aprendiendo y trabajando con **Java y C#**, mientras
-fortalezco mis conocimientos de **Programación Orientada a Objetos,
-Estructuras de Datos y Algoritmos**.
-
-También me interesa el desarrollo de **extensiones para navegadores**,
-explorando nuevas formas de crear herramientas que amplíen y personalicen
-su funcionalidad.
-
-🎯 Mi objetivo es seguir creciendo como desarrollador, mejorar continuamente
-mis habilidades y convertir lo que aprendo en proyectos útiles e interesantes.
-
-</p>
-
-<img width="250" height="250" alt="wallhaven-vmrjdm_250x250" src="https://github.com/user-attachments/assets/7288e04e-bfe9-41c3-b7c1-76be0f483cc4" />
 
